@@ -6,6 +6,19 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+#
+*.mat
+!data/*.h5
+!data/*.hdf
+!data/*.hdf5
+!data/*.csv
+!data/*.dat
+!data/*.txt
+!data/*.json
+!data/*.mat
+!data/*.npz
+
+
 # C extensions
 *.so
 

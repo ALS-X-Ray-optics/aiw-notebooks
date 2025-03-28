@@ -1,6 +1,16 @@
 # aiw-notebooks
 Bunch of notebooks from Antoine Islegen-Wojdyla useful for beamline calculations. Most of the notebooks shouldn't rely on packages, attempting to perform the calculations using scripts from scratch, in order to provide a finer understanding of what happens behind the hood.
 
+![typing fast](./assets/typingfast.gif)
+
+Checkout Antoine's other repos (many repos are private):
+* https://github.com/dream-beam
+* https://github.com/awojdyla
+    * https://github.com/awojdyla/ALS-U_Examples
+* https://bitbucket.org/awojdyla/
+    * https://bitbucket.org/alsuboss/coppy
+    * https://bitbucket.org/alsuboss/beamlining/
+
 0–scalar
 + 1-reflection
 + coddington
@@ -39,6 +49,8 @@ Bunch of notebooks from Antoine Islegen-Wojdyla useful for beamline calculations
 + Monoplus
 
 7-data handling
++ read tif
++ read hdf5
 + 5-tiled_mapping
 
 8-data processing
