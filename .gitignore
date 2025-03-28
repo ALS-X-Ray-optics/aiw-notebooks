@@ -1,3 +1,6 @@
+# keep some notebook local
+staged/*
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -5,6 +8,11 @@ __pycache__/
 
 # C extensions
 *.so
+
+#Mac
+.DS_Store
+.AppleDouble
+.LSOverride
 
 # Distribution / packaging
 .Python
