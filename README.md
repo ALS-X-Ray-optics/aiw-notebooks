@@ -11,12 +11,15 @@ Checkout Antoine's other repos (many repos are private):
     * https://bitbucket.org/alsuboss/coppy
     * https://bitbucket.org/alsuboss/beamlining/
 
+The [BLOMS 2023](https://sites.google.com/lbl.gov/bloms2023/home) [spreadsheet](https://docs.google.com/spreadsheets/d/1t_zjmHO1zYRhyP8823ERNZmFkafVMWfr8DKX4Lx5yyY/edit?usp=sharing) is also a good starting pint.
+
 0–scalar
-+ 1-reflection
-+ coddington
-+ grating
-+ crystal
-+ multilayer
++ 01-reflection
++ 02-coddington
++ 03-grating regular
++ 04-grating VLS
++ 05–crystal
++ 06–multilayer
 
 1-raytrace
 + shadow_raytracing
