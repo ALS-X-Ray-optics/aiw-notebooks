@@ -1,6 +1,8 @@
 # aiw-notebooks
 Bunch of notebooks from Antoine Islegen-Wojdyla useful for beamline calculations. Most of the notebooks shouldn't rely on packages, attempting to perform the calculations using scripts from scratch, in order to provide a finer understanding of what happens behind the hood.
 
+It is recommended to do a copy of the notebook (with a different name) if you make modifications, to avoid losing something that works!
+
 ![typing fast](./assets/typingfast.gif)
 
 Checkout Antoine's other repos (many repos are private):
