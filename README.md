@@ -22,10 +22,13 @@ The [BLOMS 2023](https://sites.google.com/lbl.gov/bloms2023/home) [spreadsheet](
 + 04-grating VLS
 + 05–crystal
 + 06–multilayer
++ 08-source
++ footprints
 
 1-raytrace
 + shadow_raytracing
 + source_srw
++ simple_raytrace
 
 2–design
 + tolerancing (with Shadow)
