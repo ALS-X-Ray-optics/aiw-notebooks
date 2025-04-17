@@ -41,16 +41,22 @@ The [BLOMS 2023](https://sites.google.com/lbl.gov/bloms2023/home) [spreadsheet](
 + HF
 + grating in reflection
 + zoneplates
++ defocused beam streaks
++ aberrations vs. PSF
++ various codes (Light pipes, Poppy, Propper)
 
 4–coherent optics
 + wavefront
-+ TEM modes
+6 TEM modes
 + Wigner
 
 5–adaptive optics
 + influence function
 + inversion
 + wavefront engineering 
++ ML-inversion
++ ML actuation
++ woofer-tweeter
 
 6-controls
 + bluesky
@@ -63,14 +69,15 @@ The [BLOMS 2023](https://sites.google.com/lbl.gov/bloms2023/home) [spreadsheet](
 + 5-tiled_mapping
 
 8-data processing
-+ pipelimne integration
++ pipeline integration
 + ptychography
 + dual beam ptychography
 + Fourier ptychography
 
 9-publishing
-+ QR
+
 + DOI
++ 93_qr_code_into_plots
 + Zenodo
 + ATproto
 
