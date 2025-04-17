@@ -47,7 +47,7 @@ The [BLOMS 2023](https://sites.google.com/lbl.gov/bloms2023/home) [spreadsheet](
 
 4–coherent optics
 + wavefront
-6 TEM modes
++ 46-TEM modes
 + Wigner
 
 5–adaptive optics
@@ -59,6 +59,7 @@ The [BLOMS 2023](https://sites.google.com/lbl.gov/bloms2023/home) [spreadsheet](
 + woofer-tweeter
 
 6-controls
++ 63 bcs_tcp
 + bluesky
 + automated alignment
 + Monoplus
@@ -75,7 +76,6 @@ The [BLOMS 2023](https://sites.google.com/lbl.gov/bloms2023/home) [spreadsheet](
 + Fourier ptychography
 
 9-publishing
-
 + DOI
 + 93_qr_code_into_plots
 + Zenodo
